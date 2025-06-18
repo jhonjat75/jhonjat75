@@ -1,6 +1,10 @@
-### 👋 ¡Hola! Soy **Jhon Jairo Torres**
+<h1 align="center"><b>¡Hola! Soy Jhon Jairo Torres </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<img align="right" width=250px alt="Unicorn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Cat_Laptop_-_Idil_Keysan_-_Wikimedia_Giphy_stickers_2019.gif/1200px-Cat_Laptop_-_Idil_Keysan_-_Wikimedia_Giphy_stickers_2019.gif" />
 
-🧠 **Fullstack Developer** especializado en MVPs para startups y automatización de procesos  
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Fullstack Developer***
+
+
+🧠 Especializado en MVPs para startups y automatización de procesos  
 🚀 Más de 8 años construyendo productos digitales escalables con **Ruby on Rails** y **Vue.js**  
 💡 Transformo ideas complejas en soluciones funcionales claras y sin complicaciones  
 📍 Bogotá, Colombia & 🌐 Abierto a colaboraciones remotas  
